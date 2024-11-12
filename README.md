@@ -5,7 +5,7 @@ I like to make connections between concepts that seem different at the first gla
 - transport phenomenon in quantum materials/quantum simulators
 - general topics on topological defects and domain walls
 
-All these intersts are inspired by the oscillation signals in the thermal conductivity in layered magnetic material $RuCl_3$.
+All these interests are inspired by the oscillation signals in the thermal conductivity in layered magnetic material $RuCl_3$.
 
 ### Education
 
