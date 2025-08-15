@@ -1,31 +1,74 @@
 body {
-  font-family: sans-serif;
+  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
   margin: 0;
   padding: 0;
 }
+
+header{
+  margin-left: 25px;
+  margin-right: 25px;
+
+}
+
+main{
+  margin-left: 25px;
+  margin-right: 25px;
+
+}
+
 #wrapper {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 10px auto;
   padding: 1rem;
 }
-.navigation ul {
+
+.navbar ul {
+  font-size: 19px;
   list-style: none;
   text-align: center;
-  margin: 0 4px;
-  padding: 0;
+  margin: 0px;
+  padding: 4px;
   display: flex;
+  justify-content: center;
   gap: 1rem;
 }
-.navigation a {
+
+nav ul li {
+        list-style: none;
+        display: inline-block;
+        padding: 5px;
+    	  margin-left: 15px;
+    	  margin-right: 15px;
+}
+
+.navbar a {
   text-decoration: none;
   color: #333;
 }
-.navigation a:hover {
+.navbar a:hover {
   text-decoration: underline;
+  color: #40414b;
 }
-.links h2 {
+.notes h2 {
   margin-top: 2rem;
 }
-.links ul {
+.notes ul {
   list-style: disc inside;
+  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+}
+
+.notes a {
+  text-decoration: none;
+  color: #333;
+}
+
+.notes ul li {
+        list-style: disc inside;
+        padding: 5px;
+    	  margin-left: 15px;
+    	  margin-right: 15px;
+}
+
+.notes a:hover {
+  text-decoration: underline;
 }
